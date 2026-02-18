@@ -2,8 +2,11 @@
 
 This README is a github tutortial and will cover the basics of creating repositories, editing files, and saving changes with **commit**s
 
+Part One
 ##0) 
-1) Go to GitHub.com and create an account. Take the steps necessary to create an account such as verifying email address 
+1: Go to GitHub.com and create an account. Take the steps necessary to create an account such as verifying email address 
+
+
 
 ##1) Create a github
 1: Click New **repository**
@@ -19,20 +22,13 @@ This README is a github tutortial and will cover the basics of creating reposito
 4: Type your changes or add anything you wish
 5: Look for the **commit**t changes button. Add a short message like "updating README". A **commit** is simply a saved checkpoint for your project. 
 
-##3) Optional
-1: In your repo, click Code and then copy the HTTPS link
-2: Open a terminal and run: 
-  **git****clone** <past_link_here>
-3: Enter the folder: 
-  cd A02
-4: After you edit files on your computer, check what happened with **git**status (in the terminal)
-5: Enter **git**add in the terminal to stage your changes
-6: **commit** or save a checkpoint of your work by using the command in the terminal:
-  **git****commit** -m "I made a change(Describe what you changed in the quotes"
-7: Finally, **push** to github with: 
-  **git****push**
+##3) Optional + Using Webstorm
+1: Install and set up. https://www.jetbrains.com/webstorm/download/
+2: Sign in/ Sign up 
+3: In Github open your repo then click Code, and finally copy the HTTPS URL
+4: Paste the URL and choose where to save 
 
-##4) Some common GitHub Features/overview 
+##5) Some common GitHub Features/overview 
 1: **commit**s - saved versions of your work
 2: **Branches** - a seperate line or **branch**of development that allows you to isolate changes without affecting the main project (good for experimenting)
 3: **merge** - combining changes from one **branch**into another
@@ -45,3 +41,8 @@ This README is a github tutortial and will cover the basics of creating reposito
 10: **GitHub** - web based platform that serves as a hub for developers to store, manage, or collaborate using GIT 
 11: **Clone** - create a complete local copy of an existing Git repostiory
 12: **Repository** - Github's feature that is used to store files, code, and documentation for a project along with each file's complete revision history
+
+##6) References 
+Webstorm Git and Github docs: https://www.jetbrains.com/help/webstorm/using-git-integration.html
+Github Docs: https://docs.github.com/en
+How to use github for beginners video: https://www.youtube.com/watch?v=a9u2yZvsqHA
